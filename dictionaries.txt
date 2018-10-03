@@ -1,0 +1,5 @@
+﻿monkey	con khỉ
+bird	con chim
+chicken	con gà
+dog	con chó
+man	con người

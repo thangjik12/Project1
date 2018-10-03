@@ -1,0 +1,5 @@
+bird	con chim
+chicken	con gà
+dog	con chó
+human	con nguoi
+man	con người
